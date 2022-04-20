@@ -50,6 +50,6 @@ I am a Full stack  software Developer <img src="https://media.giphy.com/media/WU
 </div>
 
  My Stats :
- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=https://github.com/Felexonyango&theme=dark&background=000000)](https://git.io/streak-stats)
 
+      [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Felexonyango&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
