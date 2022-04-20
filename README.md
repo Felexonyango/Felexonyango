@@ -48,3 +48,7 @@ I am a Full stack  software Developer <img src="https://media.giphy.com/media/WU
       <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="express js" alt="express js" width="40" height="40"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="Nextjs" alt="Nextjs" width="40" height="40"/>&nbsp;
 </div>
+
+ My Stats :
+https://github-readme-streak-stats.herokuapp.com/?user=https://github.com/Felexonyango
+
