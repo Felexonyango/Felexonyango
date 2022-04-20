@@ -20,9 +20,7 @@ I  experiment code with words
 </div>
  :man_technologist: About Me :
 
-I am a Full stack  software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-
-- :telescope: I’m currently learning  DevOps.
+I am a Full stack  software Developer
 
 - :seedling: Looking for collaboration in MERN stack, typescript,graphql,react Native .
 
