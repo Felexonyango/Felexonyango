@@ -16,7 +16,7 @@ I  experiment code with words
 
  :man_technologist: About Me :
 
-I am a Full stack  software Developer
+I am a Full Stack  software Developer
 
 - :seedling: Looking for collaboration in MERN stack, typescript,graphql,react Native .
 
