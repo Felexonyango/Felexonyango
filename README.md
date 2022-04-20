@@ -49,6 +49,9 @@ I am a Full stack  software Developer <img src="https://media.giphy.com/media/WU
         <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="Nextjs" alt="Nextjs" width="40" height="40"/>&nbsp;
 </div>
 
- My Stats :
+### :fire: My Stats :
+ 
  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Felexonyango&theme=dark&background=000000)](https://git.io/streak-stats)
+ 
+ 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Felexonyango&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
