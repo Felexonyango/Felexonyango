@@ -18,7 +18,7 @@ I  experiment code with words
 
 I am a Full Stack  software Developer
 
-- :seedling: Looking for collaboration in MERN stack, typescript,graphql,react Native .
+- :seedling: Looking for collaboration in MERN stack, Typescript,Graphql,React Native .
 
 - :zap: Fun fact ,I love coding
 
