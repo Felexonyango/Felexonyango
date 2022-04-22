@@ -23,7 +23,7 @@ Let's connect:
  :man_technologist: About Me :
 
 I am a Full Stack  software Developer
-
+- :zap: Working on TDD and DevOps staff
 - :seedling: Looking for collaboration in MERN stack, Typescript,Graphql,React Native .
 
 - :zap: Fun fact ,I love coding
