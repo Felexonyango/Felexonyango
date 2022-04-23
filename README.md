@@ -59,4 +59,4 @@ I am a Full Stack  software Developer
  
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Felexonyango&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Felexonyango)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Felexonyango)](https://github.com/Felexonyango/github-readme-stats)
