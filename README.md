@@ -16,7 +16,7 @@ Let's connect:
 
 I am a Full Stack  software Developer
 - :zap: Working on TDD and DevOps staff
-- :seedling: Looking for collaboration in MERN stack, Typescript,Graphql,React Native .
+- :seedling: Looking for collaboration in Laravel API development and MERN stack, Typescript,React Native .
 - :zap: Fun fact ,I love coding
  Languages and Tools :
 <div>
