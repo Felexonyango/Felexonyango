@@ -17,7 +17,7 @@ Let's connect:
 I am a  Software Engineer
 - :zap: Learning TDD and some DevOps 
 - :seedling: Looking for collaboration in MERN stack, Typescript,React Native and  Laravel API development 
-- :zap: Fun fact ,I love coding
+- :zap: Fun fact ,Nothing 
 
  Languages and Tools :
 <div>
