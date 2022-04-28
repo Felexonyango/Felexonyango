@@ -1,6 +1,6 @@
 #
 Hi there 👋I'm Felex,
-I  experiment code with words
+
 Let's connect:
 
 <div id="badges">
