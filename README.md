@@ -15,7 +15,7 @@ Let's connect:
  :man_technologist: About Me :
 
 I am a Full Stack  software Developer
-- :zap: Learning TDD
+- :zap: Learning TDD and some DevOps 
 - :seedling: Looking for collaboration in Laravel API development and MERN stack, Typescript,React Native .
 - :zap: Fun fact ,I love coding
  Languages and Tools :
