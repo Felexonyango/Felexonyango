@@ -15,7 +15,7 @@ Let's connect:
  :man_technologist: About Me :
 
 I am a  Software Engineer
-- :zap: Learning TDD and some DevOps 
+- :zap: Learning  DevOps technologies
 - :seedling: Looking for collaboration in MERN stack, Typescript,React Native and  Laravel API development 
 - :zap: Fun fact ,I love writting units Tests
 
