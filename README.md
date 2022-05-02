@@ -14,8 +14,10 @@ Let's connect:
 </div>
  :man_technologist: About Me :
 
-I am a  Software Engineer
+I am a  Software Developer 
 - :zap: Learning  DevOps technologies
+- - :seedling:Frontend Developer (JavaScript ,Typescript ,React,Nextjs ,Redux,Material UI, HTML,CSS, React, Testing Library and Jest)
+- - - :seedling:Backend Developer (NodeJs ,Express Js,Typescript ,MongoDB,Postgresql, PHP,Laravel API,Jest,PHP Unit testing)
 - :seedling: Looking for collaboration in MERN stack, Typescript,React Native and  Laravel API development 
 - :zap: Fun fact ,I love writting units Tests
 
@@ -29,7 +31,6 @@ I am a  Software Engineer
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain.svg" title="Graphql" alt="Graphql" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-plain.svg" title="Webpack" alt="Webpack" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" title="Typescript" alt="Typescript" width="40" height="40"/>&nbsp;
