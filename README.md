@@ -17,7 +17,7 @@ Let's connect:
 I am a  Software Developer 
 - :zap: Learning  DevOps technologies
 - :seedling:Frontend Developer -JavaScript ,Typescript ,React,Nextjs ,Redux,Material UI, HTML,CSS, React Testing Library and Jest
-- :seedling:Backend Developer -NodeJs ,Express Js,Typescript ,MongoDB,Postgresql, PHP,Laravel API,Jest,PHP Unit testing
+- :seedling:Backend Developer -NodeJs ,Express Js,Typescript ,MongoDB,Postgresql,Prisma , PHP,Laravel API,Jest,PHP Unit testing
 - :zap: Fun fact ,I love writting units Tests
 
  Languages and Tools :
