@@ -12,7 +12,7 @@ Let's connect:
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
- :man_technologist: About Me :
+
 
 I am a  Software Developer 
 - :zap: Learning  DevOps technologies
