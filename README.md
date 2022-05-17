@@ -15,7 +15,7 @@ Let's connect:
 
 
 I am a  Software Developer 
-- :zap: Learning  DevOps technologies and UI/UX using Figma
+- :zap: Learning  DevOps technologies 
 - :seedling:Frontend Developer -JavaScript ,Typescript ,React,Nextjs,React Native Expo ,Redux,Material UI, HTML,CSS, React Testing Library and Jest
 - :seedling:Backend Developer -NodeJs ,Express Js,Typescript ,MongoDB,Postgresql,Prisma , PHP,Laravel API,Jest,PHP Unit testing
 - :zap: Fun fact ,I love writting units Tests
