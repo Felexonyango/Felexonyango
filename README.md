@@ -16,13 +16,14 @@ Let's connect:
 
 I am a  Software Developer 
 - :zap: Learning  DevOps  Technologies
-- :seedling:Frontend Developer -JavaScript ,Typescript ,React,Nextjs,React Native Expo ,Redux,Material UI, HTML,CSS, React Testing Library and Jest
-- :seedling:Backend Developer -NodeJs ,Express Js,Typescript ,MongoDB,Postgresql,Prisma , PHP,Laravel API,Jest,PHP Unit testing
+- :seedling:Frontend Developer -JavaScript ,Typescript ,React, Angular Js ,Nextjs,React Native Expo ,Redux,Material UI, HTML,CSS, and Jest
+- :seedling:Backend Developer -NodeJs ,Express Js,Typescript ,MongoDB,Postgresql,Prisma
 - :zap: Fun fact ,I love writting units Tests
 
  Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-plain.svg" title="Angular" alt="Angular" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
@@ -37,9 +38,10 @@ I am a  Software Developer
           <img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" title="Nginx" alt="Nginx" width="40" height="40"/>&nbsp;
       <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="express js" alt="express js" width="40" height="40"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="Nextjs" alt="Nextjs" width="40" height="40"/>&nbsp;
-          <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain.svg" title="Laravel" alt="Laravel" width="40" height="40"/>&nbsp;
+
           <img src="https://github.com/devicons/devicon/blob/master/icons/mocha/mocha-plain.svg" title="Mocha" alt="Mocha" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" title="Jest" alt="Jest" width="40" height="40"/>&nbsp;
+  
 </div>
 
 ### :fire: My Stats :
