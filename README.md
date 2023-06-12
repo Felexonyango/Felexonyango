@@ -16,7 +16,7 @@ Let's connect:
 
 I am a  Software Developer 
 - :zap: Learning  DevOps  Technologies ( Azure)
-- :seedling:Frontend Developer -JavaScript ,Typescript ,React, Angular,Ngrx,Redux, HTML,CSS, and Cypress
+- :seedling:Frontend Developer -JavaScript Rxjs,,Typescript ,React, Angular,Ngrx,Redux, HTML,CSS, and Cypress
 - :seedling:Backend Developer -NodeJs ,Express Js,Typescript ,MongoDB
 - :zap: Fun fact ,I love writting end to end  Tests
 
